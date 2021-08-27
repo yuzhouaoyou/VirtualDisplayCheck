@@ -1,0 +1,5 @@
+破解了某个虚拟显示器，只为了解决远程部分设备显卡不输出的问题，购买欺骗器后已不使用，作为存档上传
+
+记录使用方法: 安装vc2019，管理员权限运行install安装，管理员权限运行DisplayAgentCrack启动，使用uninst卸载
+
+开机启动需要手动添加DisplayAgentCrack而不是DisplayAgent和自带的
